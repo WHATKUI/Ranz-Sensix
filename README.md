@@ -1,4 +1,3 @@
-# Ranz-Sensix
 🎯 SENSIX RANZ - Premium Game Injector 🚀
 ​SENSIX RANZ adalah aplikasi injector game (Free Fire) berbasis web modern yang dirancang untuk memberikan pengalaman bermain yang lebih halus, presisi, dan optimal. Dengan antarmuka Neon Futuristic UI, aplikasi ini menggabungkan keindahan visual dengan fungsionalitas tingkat tinggi. 🛠️✨
 ​🌟 Fitur Unggulan (Main Features)
