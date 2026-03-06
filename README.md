@@ -26,5 +26,5 @@ Berikut adalah daftar fitur yang tersedia di dalam Sensix Ranz:
 ⚠️ Disclaimer
 Projek ini dibuat untuk tujuan Edukasi & Pembelajaran. Penggunaan di dalam game online resmi berisiko terkena banned. Gunakan dengan bijak, Senpai! 🙏
 👨‍💻 Developer
-Sensix Ranz Project © 2024
+Sensix Ranz Project © 2026
 "Sihir coding untuk performa gaming terbaik!" ✨
